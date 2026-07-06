@@ -4,6 +4,7 @@ export function updateTexts(data) {
     getElement("hero-title").textContent = data.hero.title;
     getElement("hero-subtitle").textContent = data.hero.subtitle;
     getElement("hero-description").textContent = data.hero.description;
+    getElement("hero-cta").textContent = data.hero.cta;
     getElement("features-anchor").textContent = data.features_anchor;
     getElement("how-it-works-anchor").textContent = data.how_it_works_anchor;
     getElement("testimonials-anchor").textContent = data.testimonials_anchor;

@@ -2,7 +2,8 @@
   "hero": {
     "title": "Take your academy to the next level",
     "subtitle": "Simplify your management",
-    "description": "Enroll students, organize schedules, manage payments and more, all in one platform."
+    "description": "Enroll students, organize schedules, manage payments and more, all in one platform.",
+    "cta": "Get started now"
   },
   "features_anchor": "Features",
   "how_it_works_anchor": "How it works",

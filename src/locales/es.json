@@ -2,7 +2,8 @@
   "hero": {
     "title": "Lleva tu academia al siguiente nivel",
     "subtitle": "Simplifica tu gestión",
-    "description": "Matrícula estudiantes, organiza horarios, gestiona pagos y más, todo en una sola plataforma."
+    "description": "Matrícula estudiantes, organiza horarios, gestiona pagos y más, todo en una sola plataforma.",
+    "cta": "Comienza ahora"
   },
   "features_anchor": "Características",
   "how_it_works_anchor": "Pasos",
